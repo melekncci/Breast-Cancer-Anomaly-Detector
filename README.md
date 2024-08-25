@@ -9,42 +9,42 @@ The Breast-Cancer-Anomaly-Detector is a Python-based anomaly detection system de
 Project Objectives
 The primary goal of this project is to develop a tool that identifies patients exhibiting distinct characteristics based on breast cancer diagnosis data. The focus is on anomaly detection, identifying data points that significantly deviate from the norm, which might indicate potential health issues.
 
-Dataset
+# Dataset
 The dataset, patients.csv, contains records of 310 individuals, each described by 30 different features related to breast cancer diagnosis. While most of these individuals are healthy, the dataset contains some cases that exhibit significant differences.
 
-Project Structure
+# Project Structure
 The project is structured into several key phases:
 
-Data Exploration:
-
+# Data Exploration:
 Loading and examining the dataset.
 Calculating basic statistics for each feature.
 Investigating feature distributions using histograms.
-Data Preprocessing and Visualization:
 
+# Data Preprocessing and Visualization:
 Normalizing features to ensure consistent scales.
 Visualizing the dataset using scatter plots and PCA for dimensionality reduction.
-Calculating Euclidean Distance:
 
+# Calculating Euclidean Distance:
 Implementing a function to calculate the Euclidean distance between data points.
-Anomaly Score Calculation:
 
+# Anomaly Score Calculation:
 Developing a method to compute anomaly scores based on distances to k-nearest neighbors.
-Identifying Anomalies:
 
+# Identifying Anomalies:
 Applying the anomaly score function to identify the most anomalous patients.
-Visualization of Anomalies:
 
+# Visualization of Anomalies:
 Creating visual representations to highlight and compare anomalous and normal data points.
 
-Results
+# Results
 The anomaly detection system successfully identifies patients with unusual characteristics that may warrant further examination. The system can be adjusted and fine-tuned based on the number of anomalies expected by experimenting with the parameter k.
 
-Visualization
+# Visualization
 Histograms: Display the distribution of each feature.
 Scatter Plots: Visualize anomalies in a reduced feature space (e.g., after PCA).
 Anomaly Score Distribution: Highlight patients with the highest anomaly scores.
-Contributing
+
+#Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
 
 
