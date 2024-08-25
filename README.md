@@ -51,7 +51,8 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 
 # Screenshots
- <img src="https://drive.google.com/file/d/1cLEMZI-2nHD8CjKWo1b4MrVcgJSSD2fh/view?usp=drive_link"> <img src="https://drive.google.com/file/d/1IExZ4G3zN178vIX5gBonePa9mogEiA9L/view?usp=drive_link"> <img src="https://drive.google.com/file/d/1UtVShqFT0iiDB4LRFvwrNQH9X9O4ichP/view?usp=drive_link"> <img src="https://drive.google.com/file/d/1fnDuclYs-c9Z1I8Ux_2B9eYm2eg-1qDW/view?usp=drive_link"> <img src="https://drive.google.com/file/d/1j6d4-Rt6ljeAu-PXJEo6hpb79JByJ_bp/view?usp=drive_link">
+![image](https://github.com/user-attachments/assets/672e2605-118d-4acd-af4b-3d13d8a7cf4f)
+
 # Tech Used
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
       
