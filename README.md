@@ -51,7 +51,14 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 
 # Screenshots
-![image](https://github.com/user-attachments/assets/672e2605-118d-4acd-af4b-3d13d8a7cf4f)
+![1](https://github.com/user-attachments/assets/df765b4d-8534-4221-959c-2126c84253cb)
+![2](https://github.com/user-attachments/assets/126a9b79-51ee-4673-b7bd-80eb6dbc9c68)
+![3](https://github.com/user-attachments/assets/1adeb1e9-ad06-4ff9-9bf0-d442423c0208)
+![4](https://github.com/user-attachments/assets/8c407adb-400e-43d9-ad19-ed13c86f9ff8)
+![5](https://github.com/user-attachments/assets/e897fa11-a9ef-4474-bffd-0960a028e892)
+
+
+
 
 # Tech Used
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -59,7 +66,4 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 [Contact me on LinkedIn!](https://www.linkedin.com/in/melekncci/)
 
-
-      
-<!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
     
